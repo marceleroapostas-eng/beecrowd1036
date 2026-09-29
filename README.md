@@ -1,8 +1,8 @@
-\# Beecrowd 1036 - Fórmula de Bhaskara
+# Beecrowd 1036 - Fórmula de Bhaskara
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa resolve o problema 1036 do Beecrowd.
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém três valores de ponto flutuante A, B e C.
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -38,9 +38,9 @@ O programa apresenta as duas raízes da equação no formato:
 
 
 
-\*\*R1 = resultado\*\*
+**R1 = resultado**
 
-\*\*R2 = resultado\*\*
+**R2 = resultado**
 
 
 
@@ -48,11 +48,11 @@ Caso não seja possível calcular as raízes, apresenta:
 
 
 
-\*\*Impossivel calcular\*\*
+**Impossivel calcular**
 
 
 
-\## Autor
+## Autor
 
 
 
